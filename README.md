@@ -1,4 +1,4 @@
-Ejercicio de Sensores. Utilizando pgAdmin y librería pg en nodeJS
+Ejercicio de Sensores. Utilizando pgAdmin y librería pg en node.js
 
 Como no tenemos front-end nos auxiliamos de Postman 
 https://documenter.getpostman.com/view/17127468/UUy7bPrF
@@ -18,4 +18,4 @@ Usamos dotenv para las variables de entorno
 Usamos un archivo aparte con la configuración de Pool dentro de la carpeta db
 Usamos .gitignore para no subir node_modules y .env
 
-PosgreSQL, pgAdmin, pg, nodeJS, express
+PosgreSQL, pgAdmin, pg, node.js, express
