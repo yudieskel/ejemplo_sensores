@@ -1,4 +1,7 @@
-Ejercicio de Sensores. Utilizando pgAdmin y librería pg en node.js
+#ejemplo_sensores
+
+Ejercicio de Sensores. 
+Utilizando pgAdmin y librería pg en node.js
 
 Como no tenemos front-end nos auxiliamos de Postman 
 https://documenter.getpostman.com/view/17127468/UUy7bPrF
