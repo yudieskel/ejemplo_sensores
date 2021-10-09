@@ -1,5 +1,4 @@
-#ejemplo_sensores
-
+# ejemplo-sensores
 Ejercicio de Sensores. 
 Utilizando pgAdmin y librería pg en node.js
 
@@ -22,3 +21,4 @@ Usamos un archivo aparte con la configuración de Pool dentro de la carpeta db
 Usamos .gitignore para no subir node_modules y .env
 
 PosgreSQL, pgAdmin, pg, node.js, express
+iniciar: npm run start
